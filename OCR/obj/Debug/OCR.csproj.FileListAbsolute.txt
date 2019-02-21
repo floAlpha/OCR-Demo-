@@ -1,0 +1,9 @@
+D:\Projects\OCR\OCR\bin\Debug\OCR.exe.config
+D:\Projects\OCR\OCR\bin\Debug\OCR.exe
+D:\Projects\OCR\OCR\bin\Debug\OCR.pdb
+D:\Projects\OCR\OCR\obj\Debug\OCR.csprojResolveAssemblyReference.cache
+D:\Projects\OCR\OCR\obj\Debug\OCR.Form1.resources
+D:\Projects\OCR\OCR\obj\Debug\OCR.Properties.Resources.resources
+D:\Projects\OCR\OCR\obj\Debug\OCR.csproj.GenerateResource.Cache
+D:\Projects\OCR\OCR\obj\Debug\OCR.exe
+D:\Projects\OCR\OCR\obj\Debug\OCR.pdb
